@@ -1,4 +1,4 @@
-<h1>Remove wishlist and compare of all pages of Opencart</h1>
+<h1>Remove wishlist and compare</h1>
 <p>vQmod used to remove "wishlist" and "compare" link of all pages.</p>
 <h2>Dependencies</h2>
 <p><a href="https://code.google.com/p/vqmod/downloads/list" title="Click to download">vQmod</a> (Download the latest file that contains its name "-opencart")</p>
